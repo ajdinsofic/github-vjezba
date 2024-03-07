@@ -1,1 +1,2 @@
 token za testnog usera: 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
+token za admina: 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
