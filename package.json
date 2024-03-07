@@ -1,0 +1,11 @@
+{
+  "name": "noviuser",
+  "version": "1.0.0",
+  "description": "Vjezba koja mi pomaze za vjezbanje githuba i gita, a mozda i malo htmla",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ajdin",
+  "license": "ISC"
+}
