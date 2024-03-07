@@ -1,3 +1,3 @@
 # Vjezba
 
-Vjezba koja mi pomaze za vjezbanje git i githuba
+Vjezba koja mi pomaze za vjezbanje githuba i gita
